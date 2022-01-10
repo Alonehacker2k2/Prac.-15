@@ -1,0 +1,1 @@
+Practical 15 task 2.2 writing in a file using fstream This is appended this is the text written into the file
